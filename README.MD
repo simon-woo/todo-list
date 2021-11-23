@@ -6,7 +6,7 @@
 git clone 过后首先执行 npm install 下载所需要的依赖
 
 ##
-打包命令 ：npm run build
+打包命令 ：npm run build1
 
 ##
 
